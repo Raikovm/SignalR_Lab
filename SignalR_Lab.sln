@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalR_Lab", "SignalR_Lab\SignalR_Lab.csproj", "{279E7CBE-F3DE-4BE2-8169-CBE90DA55530}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279E7CBE-F3DE-4BE2-8169-CBE90DA55530}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279E7CBE-F3DE-4BE2-8169-CBE90DA55530}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279E7CBE-F3DE-4BE2-8169-CBE90DA55530}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279E7CBE-F3DE-4BE2-8169-CBE90DA55530}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
